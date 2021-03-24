@@ -33,5 +33,8 @@ esta imagen tiene las medidas de 3
 *![Leon Rosa Bonheur 50](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur50.png)
 esta imagen tiene las medidas de 50
 
+*![Leon Rosa Bonheur 150](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur150.png)
+esta imagen tiene las medidas de 150
+
 
 
