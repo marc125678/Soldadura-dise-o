@@ -3,7 +3,7 @@
 
 [Soldadura Diseño Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/inkscape.emd)
 
-[foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
+*![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
 
 para amor he eho dos personas que representan el amor
 para el odio he echo una calavera que representa el odio 
@@ -15,4 +15,4 @@ Si he utilizado un simbolo.
 
 Si he descubierto que no hace falta dibujar corazones de emojis en el amor. 
 
-[Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
+*![Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
