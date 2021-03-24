@@ -13,4 +13,6 @@ para la guerra he echo dos pistolas que representan la guerra.
 
 Si he utilizado un simbolo.
 
-Si he descubierto que no hace falta dibujar corazones de emojis en el amor.
+Si he descubierto que no hace falta dibujar corazones de emojis en el amor. 
+
+[Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
