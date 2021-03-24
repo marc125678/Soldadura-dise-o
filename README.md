@@ -26,3 +26,7 @@ esta imagen tiene las medidas de 50
 
 *![Dibujo 150 png](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20150%20png.png)
 esta imagen tiene las medidas de 150 
+
+*![Leon Rosa Bonheur](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur.png)
+esta imagen tiene las medidas de 3
+
