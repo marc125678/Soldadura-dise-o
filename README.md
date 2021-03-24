@@ -36,5 +36,10 @@ esta imagen tiene las medidas de 50
 *![Leon Rosa Bonheur 150](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur150.png)
 esta imagen tiene las medidas de 150
 
+*![Leon Vectorizado Rosa 3,00](https://github.com/marc125678/Soldadura-dise-o/blob/main/vectorizado%20leon%20rosa.png)
+esta imagen tiene las medidas de 3,00
+
+
+
 
 
