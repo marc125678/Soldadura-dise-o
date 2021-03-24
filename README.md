@@ -18,6 +18,7 @@ Si he descubierto que no hace falta dibujar corazones de emojis en el amor.
 *![Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
 
 *![Dibujo Marc Inkscape PNG](https://github.com/marc125678/Soldadura-dise-o/blob/main/path236.png)
+esta imagen tiene las medidas de 3 
 
 
 *![Dibujo 50 ppp.png](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo50ppp.png) 
