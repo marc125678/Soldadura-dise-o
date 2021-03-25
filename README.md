@@ -39,6 +39,10 @@ esta imagen tiene las medidas de 150
 *![Leon Vectorizado Rosa 3,00](https://github.com/marc125678/Soldadura-dise-o/blob/main/vectorizado%20leon%20rosa.png)
 esta imagen tiene las medidas de 3,00
 
+*![Leon Vectorizado Rosa 50,00](https://github.com/marc125678/Soldadura-dise-o/blob/main/concs%20Vectorizado%203.png)
+
+*! [Leon Vectorizado Rosa 150,00 
+
 
 
 
