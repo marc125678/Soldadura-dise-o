@@ -1,5 +1,6 @@
 # Ejercicios y reflexiones sobre inkscape
 
+## Ejercicio de conceptos
 
 *![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
 
@@ -12,6 +13,8 @@ para la guerra he echo dos pistolas que representan la guerra.
 Si he utilizado un simbolo.
 
 Si he descubierto que no hace falta dibujar corazones de emojis en el amor. 
+
+## Ejercicio de rasterizado
 
 *![Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
 
@@ -34,11 +37,19 @@ esta imagen tiene las medidas de 50
 *![Leon Rosa Bonheur 150](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur150.png)
 esta imagen tiene las medidas de 150
 
+## Ejercicio de vectorizado
+
+Este es el León pintado por Rosa Bonheur
+
 *![Leon Vectorizado Rosa](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)
 
 *![Captura de pantalla Leon Rosa Vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-43-09.png)
 
+
+
 estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
 
 *![foto circulo](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+ 
+
 
