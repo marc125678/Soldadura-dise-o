@@ -38,6 +38,10 @@ esta imagen tiene las medidas de 150
 
 *![Leon Vectorizado Rosa](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)
 
+*![Captura de pantalla Leon Rosa Vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-43-09.png)
+
+estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
+
 
 
 
