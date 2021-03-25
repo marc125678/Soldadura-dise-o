@@ -42,6 +42,8 @@ esta imagen tiene las medidas de 150
 
 estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
 
+*![foto circulo](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+
 
 
 
