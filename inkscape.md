@@ -83,6 +83,8 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
 [pagina url pelicano](https://www.muyinteresante.es/naturaleza/fotos/curiosidades-sobre-los-pelicanos-141610991255)
 
  
+ 
+ 
  esta imagen es un logotipo de una s i w me gusta mucho por su fama en un videojuego 
 
 *![foto logo sw](https://github.com/marc125678/Soldadura-dise-o/blob/main/vector-graphic-initials-letter-sw-logo-design-template-emblem-hexagon-204622470.jpg.svg)
