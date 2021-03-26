@@ -8,7 +8,7 @@
  
  [Ejercicio de vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)
  
- [Ejercicios Ciruclo Modificado y Normal](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+ [Ejercicios Ciruclo Modificado y Normal](#ejercicios-ciruclo-modificado-y-normal)
  
  [Ejercicios de lineas rectas y curvadas](#ejercicios-de-lineas-rectas-y-curvadas)
  
@@ -77,6 +77,10 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
  estos ejercicios son de lineas curvadas y rectas usado con un programa llamado inkscape. Bézier.
  
 *![foto lineas curvadas y rectas](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-44-08.png)
+
+
+*![foto pelicano](https://github.com/marc125678/Soldadura-dise-o/blob/main/1-pelicanos_0.jpg)
+[pagina url pelicano](https://www.muyinteresante.es/naturaleza/fotos/curiosidades-sobre-los-pelicanos-141610991255)
 
  
 
