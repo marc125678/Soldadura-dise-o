@@ -51,6 +51,8 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
 
 *![foto circulo](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
 
+  Ejercicio circulo Modificado con estilo trazado Modificado color de trazado Modificado el relleno
+  
   Ejercicios de lineas rectas y curvadas
 *![foto lineas curvadas y rectas](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-44-08.png)
 *![Captura de pantalla lineas curvadas y rectas](https://github.com/marc125678/Soldadura-dise-o/blob/main/bitmap.png)
