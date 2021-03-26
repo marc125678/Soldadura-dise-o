@@ -4,6 +4,17 @@
 
 [Ejercicio de conceptos](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
 
+ [Ejercicio de rasterizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
+ 
+ [Ejercicio de vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)
+ 
+ [Ejercicios Ciruclo Modificado y Normal](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+ 
+ [Ejercicios de lineas rectas y curvadas](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-44-08.png)
+ 
+ 
+ 
+
 ## Ejercicio de conceptos
 
 *![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpghttps://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
