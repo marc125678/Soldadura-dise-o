@@ -49,7 +49,8 @@ Este es el León pintado por Rosa Bonheur
 
 estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
 
-*![foto circulo](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+*![foto circulo Modificado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
+*![foto circulo normal](https://github.com/marc125678/Soldadura-dise-o/blob/main/bitmap.png)
 
   Ejercicio circulo Modificado con estilo trazado Modificado color de trazado Modificado el relleno
   
