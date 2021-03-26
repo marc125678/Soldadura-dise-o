@@ -1,8 +1,12 @@
 # Ejercicios y reflexiones sobre inkscape
 
+##Indice
+
+[Ejercicio de conceptos](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
+
 ## Ejercicio de conceptos
 
-*![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
+*![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpghttps://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
 
 para amor he eho dos personas que representan el amor
 para el odio he echo una calavera que representa el odio 
@@ -57,8 +61,10 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
 
   Ejercicio circulo Modificado con estilo trazado Modificado color de trazado Modificado el relleno
   
-  ##Ejercicios de lineas rectas y curvadas
- estos ejercicios son de lineas curvadas y rectas usado con un programa llamado inkscape
+## Ejercicios de lineas rectas y curvadas
+
+ estos ejercicios son de lineas curvadas y rectas usado con un programa llamado inkscape. Bézier.
+ 
 *![foto lineas curvadas y rectas](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-44-08.png)
 
  
