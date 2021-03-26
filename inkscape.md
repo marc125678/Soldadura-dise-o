@@ -1,6 +1,6 @@
 # Ejercicios y reflexiones sobre inkscape
 
-##Indice
+## Indice
 
 [Ejercicio de conceptos](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
 
