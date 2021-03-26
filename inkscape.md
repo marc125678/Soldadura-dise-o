@@ -84,6 +84,10 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
 
 *![foto logo sw](https://github.com/marc125678/Soldadura-dise-o/blob/main/vector-graphic-initials-letter-sw-logo-design-template-emblem-hexagon-204622470.jpg.svg)
 
+esta imagen es de un logotipo buscado por google teniendo en cuenta que es una s i una w.
+
+[pagina del logo sw](https://www.dreamstime.com/illustration/sw-logo.html)
+
 
  
 
