@@ -48,6 +48,8 @@ Este es el León pintado por Rosa Bonheur
 
 
 estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
+ 
+ ## Ejercicios Ciruclo Modificado y Normal.
 
 *![foto circulo Modificado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
 
@@ -55,7 +57,8 @@ estas imagenes estan hechas con un programa llamado inkscape simplemente con una
 
   Ejercicio circulo Modificado con estilo trazado Modificado color de trazado Modificado el relleno
   
-  Ejercicios de lineas rectas y curvadas
+  ##Ejercicios de lineas rectas y curvadas
+ estos ejercicios son de lineas curvadas y rectas usado con un programa llamado inkscape
 *![foto lineas curvadas y rectas](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-44-08.png)
 
  
