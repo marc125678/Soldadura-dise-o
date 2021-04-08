@@ -96,6 +96,7 @@ foto captura de underground⬇️
  
    foto logo mitsubitchi⬇️
  *![foto mitsubithi logo](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20mitsubitchi.svg)
+ 
  *![captura de pantalla mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-32-45.png)
 
 
