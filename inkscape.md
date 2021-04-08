@@ -102,5 +102,6 @@ foto logo mitsubitchi⬇️
 foto captura de pantalla variacion mitsubitchi⬇️.
 *![captura de pantalla variacion mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-42-40.png)
 
-foto circulo fagor
+foto circulo fagor⬇️
 *![foto circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/circulo%20fagor.svg)
+*![captura circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-10-09.png)
