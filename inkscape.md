@@ -99,3 +99,5 @@ foto logo mitsubitchi⬇️
  *![captura de pantalla mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-32-45.png)
 
 
+foto captura de pantalla variacion mitsubitchi⬇️.
+*![captura de pantalla variacion mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-42-40.png)
