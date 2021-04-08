@@ -86,7 +86,8 @@ no he podido hacer la transformacion del pelicano pero pronto la hare.
  
  esta imagen es un logotipo de una s i w me gusta mucho por su fama en un videojuego 
 *![foto logo sw](https://github.com/marc125678/Soldadura-dise-o/blob/main/vector-graphic-initials-letter-sw-logo-design-template-emblem-hexagon-204622470.jpg%20Concun%20Marc.svg)
-
+foto Underground logotipo
+⬇️
 *![foto underground](https://github.com/marc125678/Soldadura-dise-o/blob/main/LOGO%201%20UNDERGROUND.svg)
 
 
