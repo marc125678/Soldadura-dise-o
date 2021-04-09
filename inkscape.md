@@ -108,3 +108,4 @@ foto circulo fagor⬇️
 
 foto cuadrados⬇️
 *![foto cuadrado](https://github.com/marc125678/Soldadura-dise-o/blob/main/CUADRADOS.%20Marc%20svg.svg)
+*![captura de pantalla cuadrados](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2009-21-48.png)
