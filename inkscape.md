@@ -116,3 +116,6 @@ foto cuadrados⬇️
       foto motorista⬇️
 *![foto motorista](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2014-02-14.png)
 *![captura de pantalla](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2013-30-30.png)
+
+    foto soldadura hoy hemos aprendido a soldar y a quitar los pegotes ya soldados.⬇️
+  *![foto soldadura](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210412_131841.jpg)
