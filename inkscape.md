@@ -130,7 +130,9 @@ Corte
 
     foto logo vectorizado con cuadrado rojo🐯🐨🦊
 *![foto logo vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20vectorizado%20cuadrado%20rojo.svg)
+  [esta foto la he sacado de esta pagina](https://thehungryjpeg.com/product/3692778-duck-hunter-esport-mascot-logo-design)
 
 foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
 
-*![foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png)
+*![foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png) 
+ [pagina del logo que no me gustaba y por eso he decidido hacer otro logo](https://steamcommunity.com/sharedfiles/filedetails/?l=spanish&id=1710105514)
