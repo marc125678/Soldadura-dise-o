@@ -119,3 +119,11 @@ foto cuadrados⬇️
 
     foto soldadura hoy hemos aprendido a soldar y a quitar los pegotes ya soldados.⬇️
   *![foto soldadura](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210412_131841.jpg)
+
+
+SVG 
+Tamaño màximo 50x50mm
+Negro➡️ grabado 
+Linea Roja 255,0,0
+Grosor : 0,1 mm
+Corte
