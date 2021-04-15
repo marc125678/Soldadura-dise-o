@@ -106,14 +106,14 @@ foto circulo fagor⬇️
 *![foto circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/circulo%20fagor.svg)
 *![captura circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-10-09.png)
 
-foto cuadrados⬇️
+foto cuadrados⬇️ esta foto de cuadrados vectorizados con colores blanco y azul esta echa por inkscape
 *![foto cuadrado](https://github.com/marc125678/Soldadura-dise-o/blob/main/CUADRADOS.%20Marc%20svg.svg)
 *![captura de pantalla cuadrados](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2009-21-48.png)
 
      foto nike⬇️
 *![foto nike](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2012-53-49.png)
 
-      foto motorista⬇️
+      foto motorista⬇️ esta foto es una foto vectorizada echa por inkscape
 *![foto motorista](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2014-02-14.png)
 *![captura de pantalla](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2013-30-30.png)
 
