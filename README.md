@@ -3,7 +3,7 @@
 
 [Diseño Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/inkscape.md)
 
-
+[corte laser](https://github.com/marc125678/Soldadura-dise-o/blob/main/Corte%20de%20Lasser%20md)
 
 
 
