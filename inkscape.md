@@ -129,8 +129,8 @@ Grosor : 0,1 mm
 Corte
 
     foto logo vectorizado con cuadrado rojo🐯🐨🦊
-[foto logo vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20vectorizado%20cuadrado%20rojo.svg)
+*![foto logo vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20vectorizado%20cuadrado%20rojo.svg)
 
 foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
 
-[foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png)
+*![foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png)
