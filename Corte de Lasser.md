@@ -44,8 +44,11 @@ la luz a traves del laser.
 
 ¿Què caracteristicas tiene la imagen y por qué? ➡️ formato ➡️ blanco y negro ➡️ linea de corte 
 
+¿Cómo necesitamos que sea la imagen para poderla cortar con láser?
+
 
 ## Viaje A la upc [antes de cortar)
+
 ¿Qué impresiones tengo del sitio? ¿Qué me ha gustado?
 ¿Qué he visto y qué he aprendido en general ? ➡️ cnc ➡️ lugar
 
