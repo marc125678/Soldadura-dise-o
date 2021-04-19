@@ -33,7 +33,7 @@ La normal de una superficie es la recta perpendicular de una superficie en un pu
 
 la luz a traves del laser.
 
-##Tipografía
+## Tipografía
 Definicion grafica de caracteres.
 ejemplos: impact [memes] arial hermetica times mew roman nunito y darker.
 
@@ -46,15 +46,20 @@ x3 y2 =3, 3,2
 ; >
 
 ## Diseño inicial para cortar con laser.
-
+¿Qué imagen he escogido y por qué?
+¿Què caracteristicas tiene la imagen y por qué? ➡️ formato ➡️ blanco y negro ➡️ linea de corte 
 Vaig agafar la imatge de sw perquè representa l’equip CSGo de la competència d’un equip competidor de videojocs.
+
 ## Viaje A la upc [antes de cortar)
+¿Qué impresiones tengo del sitio? ¿Qué me ha gustado?
+¿Qué he visto y qué he aprendido en general ? ➡️ cnc ➡️ lugar
 
 Em va agradar el tall amb làser quan vaig imprimir el nostre logotip amb David Laser Cutting, em va agradar molt
 ## corte laser
-
+¿Cómo es la làser?¿Comó se hace funcionar?¿Que medidas de seguridad hay?
+¿Como pasamos del dieño al corte?
 El làser és una màquina de vidre, molt gran i molt pesat
 ## pieza cortada
-
+- foto-¿Qué opinión tienes de còmo ha quedado?
 El quadrat de la peça és impressionant i té bon aspecte
 ## piezas adicionales.
