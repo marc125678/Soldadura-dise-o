@@ -33,7 +33,7 @@ La normal de una superficie es la recta perpendicular de una superficie en un pu
 
 la luz a traves del laser.
 
-##Topografía
+##Tipografía
 Definicion grafica de caracteres.
 ejemplos: impact [memes] arial hermetica times mew roman nunito y darker.
 
