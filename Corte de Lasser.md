@@ -47,8 +47,13 @@ x3 y2 =3, 3,2
 
 ## Diseño inicial para cortar con laser.
 ¿Qué imagen he escogido y por qué?
+
+ esta imagen es un logotipo de una s i w me gusta mucho por su fama en un videojuego. Vaig agafar la imatge de sw perquè representa l’equip CSGo de la competència d’un equip competidor de videojocs.
+ 
+![foto logo sw](https://github.com/marc125678/Soldadura-dise-o/blob/main/vector-graphic-initials-letter-sw-logo-design-template-emblem-hexagon-204622470.jpg%20Concun%20Marc.svg)
+
 ¿Què caracteristicas tiene la imagen y por qué? ➡️ formato ➡️ blanco y negro ➡️ linea de corte 
-Vaig agafar la imatge de sw perquè representa l’equip CSGo de la competència d’un equip competidor de videojocs.
+
 
 ## Viaje A la upc [antes de cortar)
 ¿Qué impresiones tengo del sitio? ¿Qué me ha gustado?
