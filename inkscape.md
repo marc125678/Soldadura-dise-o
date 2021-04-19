@@ -145,3 +145,5 @@ foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
  me he descargado esta fuente: 
  
  ![](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/Captura%20de%20pantalla%20de%202021-04-19%2010-20-55.png)
+ 
+ ![](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-53-36.png)
