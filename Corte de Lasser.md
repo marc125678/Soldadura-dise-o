@@ -53,6 +53,7 @@ la luz a traves del laser.
 ¿Qué he visto y qué he aprendido en general ? ➡️ cnc ➡️ lugar
 
 Em va agradar el tall amb làser quan vaig imprimir el nostre logotip amb David Laser Cutting, em va agradar molt
+las impresiones del sitio me han gustado mucho es un edificio muy grande con muchas maquinas que cada maquina sirve para una cosa. he visto figuras madera y en  general he aprendido a como 
 ## corte laser
 ¿Cómo es la làser?¿Comó se hace funcionar?¿Que medidas de seguridad hay?
 ¿Como pasamos del dieño al corte?
