@@ -58,8 +58,8 @@ Em va agradar el tall amb làser quan vaig imprimir el nostre logotip amb David 
 ## corte laser
 ¿Cómo es la làser?¿Comó se hace funcionar?¿Que medidas de seguridad hay?
 ¿Como pasamos del dieño al corte?
-El làser és una màquina de vidre, molt gran i molt pesat
+El làser és una màquina de vidre, molt gran i molt pesat las medides de seguretat es no tocar les coses sense permis dels profesors de la upc.
 ## pieza cortada
-- foto-¿Qué opinión tienes de còmo ha quedado?
+- foto-¿Qué opinión tienes de còmo ha quedado? 
 El quadrat de la peça és impressionant i té bon aspecte
 ## piezas adicionales.
