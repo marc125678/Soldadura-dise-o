@@ -136,3 +136,9 @@ foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
 
 *![foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png) 
  [pagina del logo que no me gustaba y por eso he decidido hacer otro logo](https://steamcommunity.com/sharedfiles/filedetails/?l=spanish&id=1710105514)
+ 
+ Dafont:
+ Abu Dhabi
+ me he descargado esta fuente: 
+ 
+ ![](htps://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-20-55.png)
