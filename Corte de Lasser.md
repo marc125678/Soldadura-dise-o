@@ -47,14 +47,14 @@ x3 y2 =3, 3,2
 
 ## Diseño inicial para cortar con laser.
 
-আমি sw এর চিত্রটি নিয়েছি কারণ এটি কোনও ভিডিও গেমের প্রতিযোগিতামূলক দল থেকে team বৈশিষ্ট্যগুলি প্রতিযোগিতামূলক সিএসগো দলের প্রতিনিধিত্ব করে
+Vaig agafar la imatge de sw perquè representa l’equip CSGo de la competència d’un equip competidor de videojocs.
 ## Viaje A la upc [antes de cortar)
 
-ডেভিড লেজার কাটিংয়ের সাথে আমাদের লোগো প্রিন্ট করলে লেজার কাটিং আমার পছন্দ হয়েছিল আমি এটি অনেক পছন্দ করেছি liked
+Em va agradar el tall amb làser quan vaig imprimir el nostre logotip amb David Laser Cutting, em va agradar molt
 ## corte laser
 
-ਲੇਜ਼ਰ ਸ਼ੀਸ਼ੇ ਦੀ ਬਣੀ ਮਸ਼ੀਨ ਹੈ ਇਹ ਬਹੁਤ ਵੱਡੀ ਅਤੇ ਬਹੁਤ ਭਾਰੀ ਹੈ
+El làser és una màquina de vidre, molt gran i molt pesat
 ## pieza cortada
 
-ਟੁਕੜੇ ਦੇ ਵਰਗ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਹੋਣ ਦੇ ਨਾਲ ਇਹ ਚੰਗਾ ਲੱਗ ਰਿਹਾ ਹੈ
+El quadrat de la peça és impressionant i té bon aspecte
 ## piezas adicionales.
