@@ -4,7 +4,8 @@
 
 ## conseguir la imagen en png 
 ¿que imagen he cogiodo y por que?
-[imagen zombie Negro](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/path847.png)
+*![imagen zombie Negro](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/path847.png)
+*![imagen transparente](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/43-437099_apocalypse-clipart-zombie-run-bhoot-text-png-transparent.jpeg)
 Resultado de la imagen en png con fondo blanco. y con fondo transparente
 
 ¿ como se pasa de png de internet al png que necesita mods?
