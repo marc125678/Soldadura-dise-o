@@ -7,6 +7,6 @@
 
 [cosas de soldadura](https://github.com/marc125678/Soldadura-dise-o/blob/main/soldadura.md)
 
-
+[Fresado](https://github.com/marc125678/Soldadura-dise-o/blob/main/FRESADO)
 
 
