@@ -159,5 +159,5 @@ Imagen logo citroen formato svg 😡
 
 ![imagen logo circulo hecha en inkscape](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/circulo.svg.png)
 
-![captura de imagen circulo](imagen(https://user-images.githubusercontent.com/78345869/115863467-c3cac580-a435-11eb-90d2-9875be6b9cc6.png)
+![captura de imagen circulo](https://user-images.githubusercontent.com/78345869/115863467-c3cac580-a435-11eb-90d2-9875be6b9cc6.png)
 
