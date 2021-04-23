@@ -156,3 +156,5 @@ Imagen logo citroen formato svg 😡
 
  Imagen logo captura de pantalla nvidia 😡
 ![logo nvidia captura de pantalla](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/Captura%20de%20pantalla%20de%202021-04-23%2010-23-58.png)
+
+![imagen logo circulo hecha en inkscape](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/circulo.svg.png)
