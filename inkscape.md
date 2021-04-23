@@ -87,52 +87,52 @@ no he podido hacer la transformacion del pelicano pero pronto la hare.
  esta imagen es un logotipo de una s i w me gusta mucho por su fama en un videojuego 
 *![foto logo sw](https://github.com/marc125678/Soldadura-dise-o/blob/main/vector-graphic-initials-letter-sw-logo-design-template-emblem-hexagon-204622470.jpg%20Concun%20Marc.svg)
 foto Underground logotipo
-⬇️
+😡
 *![foto underground](https://github.com/marc125678/Soldadura-dise-o/blob/main/LOGO%201%20UNDERGROUND.svg)
 
-foto captura de underground⬇️
+foto captura de underground😡
 *![captura de pantalla underground](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-56-09.png)
 
 
-foto logo mitsubitchi⬇️
+foto logo mitsubitchi😡
  *![foto mitsubithi logo](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20mitsubitchi.svg)
  *![captura de pantalla mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-32-45.png)
 
 
-foto captura de pantalla variacion mitsubitchi⬇️.
+foto captura de pantalla variacion mitsubitchi😡.
 *![captura de pantalla variacion mitsubitchi](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-42-40.png)
 
-foto circulo fagor⬇️
+foto circulo fagor😡
 *![foto circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/circulo%20fagor.svg)
 *![captura circulo fagor](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-10-09.png)
 
-foto cuadrados⬇️ esta foto de cuadrados vectorizados con colores blanco y azul esta echa por inkscape
+foto cuadrados😡 esta foto de cuadrados vectorizados con colores blanco y azul esta echa por inkscape
 *![foto cuadrado](https://github.com/marc125678/Soldadura-dise-o/blob/main/CUADRADOS.%20Marc%20svg.svg)
 *![captura de pantalla cuadrados](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2009-21-48.png)
 
-     foto nike⬇️
+     foto nike😡
 *![foto nike](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2012-53-49.png)
 
-      foto motorista⬇️ esta foto es una foto vectorizada echa por inkscape
+      foto motorista😡 esta foto es una foto vectorizada echa por inkscape
 *![foto motorista](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2014-02-14.png)
 *![captura de pantalla](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2013-30-30.png)
 
-    foto soldadura hoy hemos aprendido a soldar y a quitar los pegotes ya soldados.⬇️
+    foto soldadura hoy hemos aprendido a soldar y a quitar los pegotes ya soldados.😡
   *![foto soldadura](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210412_131841.jpg)
 
 
 SVG 
 Tamaño màximo 50x50mm
-Negro➡️ grabado 
+Negro😡 grabado 
 Linea Roja 255,0,0
 Grosor : 0,1 mm
 Corte
 
-    foto logo vectorizado con cuadrado rojo🐯🐨🦊
+    foto logo vectorizado con cuadrado rojo😡
 *![foto logo vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/logo%20vectorizado%20cuadrado%20rojo.svg)
   [esta foto la he sacado de esta pagina](https://thehungryjpeg.com/product/3692778-duck-hunter-esport-mascot-logo-design)
 
-foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
+foto logo intento no me ha gustado y lo he cambiado por el otro😡
 
 *![foto logo vectorizado imagen que no me gustaba](https://github.com/marc125678/Soldadura-dise-o/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-13-05.png) 
  [pagina del logo que no me gustaba y por eso he decidido hacer otro logo](https://steamcommunity.com/sharedfiles/filedetails/?l=spanish&id=1710105514)
@@ -150,9 +150,9 @@ foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
   টাইপোগ্রাফি অক্ষরের গ্রাফিক সংজ্ঞা। উদাহরণস্বরূপ: প্রভাব [মেমস] আরিয়াল হারমেটিকার বার মিউ রোমান নুনিটো ই গাer়।
 এটি টিটিএফ হতে পারে এবং ওটিএফ ফাইল ভেক্টর প্রকারটি এসভিজি নয় এটি ভেক্টর টাইপ একটি স্মাইলি ডলার প্রতীক সি ক্যান্সার প্রতীক টাইপফেস কম্পিউটারে থাকে যখন পিডিএফ ব্যবহার করা হয় বহনযোগ্য ডকুমেন্ট ফর্ম্যাট টাইপফেস সাধারণত 3 থেকে 50 কেবি হয় সাধারণত ফন্টের চেয়ে ছোট হরফ হরফ হ'ল আলাদা ফাইলে অন্তর্ভুক্ত থাকে (আলাদা ফাইল অন্তর্ভুক্ত করার জন্য ফন্টকে এম্বেডিং বা এপিপোর্ট করা বা রূপরেখা বা স্ট্রোকগুলিকে পাঠ্য পাসিং বলা হয় x x1 y, = 0.0 x2 y, = 1, 0 x3 y2 = 3, 3,2;>
 
-Imagen logo citroen formato svg 🐲🦌🦢
+Imagen logo citroen formato svg 😡
 
 ![logo citroen svg](https://user-images.githubusercontent.com/78345869/115839432-eef3eb80-a41a-11eb-9c5e-05aaf71dc6f3.png)
 
- Imagen logo captura de pantalla nvidia 🐞🐛🐧
+ Imagen logo captura de pantalla nvidia 😡
 ![logo nvidia captura de pantalla](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/Captura%20de%20pantalla%20de%202021-04-23%2010-23-58.png)
