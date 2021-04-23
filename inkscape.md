@@ -2,22 +2,22 @@
 
 ## Indice
 
-[Ejercicio de conceptos](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
+[Ejercicio de conceptos](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)😡
 
- [Ejercicio de rasterizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
+ [Ejercicio de rasterizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)😡
  
- [Ejercicio de vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)
+ [Ejercicio de vectorizado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path24.png)😡
  
- [Ejercicios Ciruclo Modificado y Normal](#ejercicios-ciruclo-modificado-y-normal)
+ [Ejercicios Ciruclo Modificado y Normal](#ejercicios-ciruclo-modificado-y-normal)😡
  
- [Ejercicios de lineas rectas y curvadas](#ejercicios-de-lineas-rectas-y-curvadas)
+ [Ejercicios de lineas rectas y curvadas](#ejercicios-de-lineas-rectas-y-curvadas)😡
  
  
  
 
-## Ejercicio de conceptos
+## Ejercicio de conceptos😡
 
-*![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpghttps://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)
+*![foto dibujo](https://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpghttps://github.com/marc125678/Soldadura-dise-o/blob/main/IMG_20210324_105723.jpg)😡
 
 para amor he eho dos personas que representan el amor
 para el odio he echo una calavera que representa el odio 
@@ -29,7 +29,7 @@ Si he utilizado un simbolo.
 
 Si he descubierto que no hace falta dibujar corazones de emojis en el amor. 
 
-## Ejercicio de rasterizado
+## Ejercicio de rasterizado😡
 
 *![Dibujo Marc Inkscape](https://github.com/marc125678/Soldadura-dise-o/blob/main/dibujo%20Marc.svg)
 
@@ -52,7 +52,7 @@ esta imagen tiene las medidas de 50
 *![Leon Rosa Bonheur 150](https://github.com/marc125678/Soldadura-dise-o/blob/main/Leon%20Rosa%20Bonheur150.png)
 esta imagen tiene las medidas de 150
 
-## Ejercicio de vectorizado
+## Ejercicio de vectorizado😡
 
 Este es el León pintado por Rosa Bonheur
 
@@ -64,7 +64,7 @@ Este es el León pintado por Rosa Bonheur
 
 estas imagenes estan hechas con un programa llamado inkscape simplemente con una foto de un leon normal vectorizamos las fotos.
  
- ## Ejercicios Ciruclo Modificado y Normal.
+ ## Ejercicios Ciruclo Modificado y Normal.😡
 este ejercicio trataba de hacer un circulo fagor con el programa inkscape
 *![foto circulo Modificado](https://github.com/marc125678/Soldadura-dise-o/blob/main/path10.png)
 
@@ -138,7 +138,7 @@ foto logo intento no me ha gustado y lo he cambiado por el otro😡
  [pagina del logo que no me gustaba y por eso he decidido hacer otro logo](https://steamcommunity.com/sharedfiles/filedetails/?l=spanish&id=1710105514)
  
  Dafont:
- 
+ 😡
  [el enlace](https://www.dafont.com/es/abu-dhabi.font)
  
  Abu Dhabi
