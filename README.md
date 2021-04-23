@@ -9,4 +9,4 @@
 
 [Fresado😡](https://github.com/marc125678/Soldadura-dise-o/blob/main/FRESADO.MD)
 
-
+[examen.md](https://github.com/marc125678/Soldadura-dise-o/blob/main/examen.md)
