@@ -153,3 +153,6 @@ foto logo intento no me ha gustado y lo he cambiado por el otro🐶🦅🐮
 Imagen logo citroen formato svg 🐲🦌🦢
 
 ![logo citroen svg](https://user-images.githubusercontent.com/78345869/115839432-eef3eb80-a41a-11eb-9c5e-05aaf71dc6f3.png)
+
+ Imagen logo captura de pantalla nvidia 🐞🐛🐧
+![logo nvidia captura de pantalla](https://raw.githubusercontent.com/marc125678/Soldadura-dise-o/main/Captura%20de%20pantalla%20de%202021-04-23%2010-23-58.png)
